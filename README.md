@@ -4,4 +4,5 @@ els __forks__ i __pull requests (PR)__.
 
 ## Contribuidors
 - Joan Puigcerver
+- Josema Fuentes
 - Veselin Vladimirov
