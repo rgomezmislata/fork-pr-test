@@ -6,6 +6,7 @@ els __forks__ i __pull requests (PR)__.
 - Amparo Pascual
 - Ángel García
 - Ernest Serna
+- Gema Serrano
 - Joan Puigcerver
 - Josema Fuentes
 - Manuel Lorente
