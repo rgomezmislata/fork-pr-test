@@ -12,3 +12,4 @@ els __forks__ i __pull requests (PR)__.
 - Manuel Lorente
 - Rubén Gómez
 - Veselin Vladimirov
+- Hola
